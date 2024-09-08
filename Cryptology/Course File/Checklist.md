@@ -1,0 +1,140 @@
+Cryptology 
+    - Security Essentials 
+         - need of security 
+
+         - principles/Aspects  of security
+                - Prevention 
+                - Detection 
+                - Counter measure 
+                       - Proactive 
+                       - Reactive
+
+         - evolution of security 
+         
+         - security models 
+                - CIA
+                    - prevention 
+                    - countermeasure  
+                - PPT
+                - AAA
+                - UFS
+                - NSTISSC Security Model
+                - Explore: Onion Model (Defence-In-Depth)
+                   
+         - basic terms 
+               - cryptography 
+               - cryptanalysis 
+               - cryptology 
+               - threat
+               - vulnerability 
+               - attack 
+                   - passive
+                          
+                   - active 
+               - Zero day 
+               - Security through obsurity 
+             
+    - Cryptography
+           - Characteristic of cryptographic systems 
+           - Taxonomy of cryptographic algorithms 
+           - Cipher algorithms (Flow)
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher 
+           - Substiution cipher
+                  - Mono Alphabetic 
+                       - Shift 
+                       - Affine 
+                       - Multiplicative 
+                       - Vatsayana 
+                  - Poly Alphabetic
+                       - Stream 
+                        - Vigenere cipher 
+                        - Vernam cipher
+                       - Block
+                        - Hill cipher
+                       
+           - Shift cipher 
+                  Rot 13 
+                  Caser cipher 
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher 
+                     - Brute Force 
+                     - Frequency Analysis
+
+           - Multiplicative cipher 
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher 
+                     - Brute Force 
+                     - Frequency Analysis 
+
+           - Affine Cipher 
+                  Encryption 
+                  Decryption 
+                  Key space
+                  breaking the cipher
+                    - Brute Force 
+                    - Frequency Analysis 
+                    - Known plaintext Attack 
+                    - Chosen Cipher Text attack
+
+            - Atbash Cipher 
+                   Encryption 
+                   Decryption 
+                   Keyspace 
+                   breaking the cipher 
+                          
+            - Vatsyayana Cipher 
+                   Encryption 
+                   Decryption 
+                   Keyspace 
+
+            - Transposition Cipher 
+                - Rail fence 
+                      Keyword based 
+                      With out keyword 
+
+                - Columnar Trasnsposition
+                      Keyword based 
+                      Without keyword 
+
+                - Double Columnar Transposition 
+
+                - Rail Fence Vs. Columnar Transposition (Both are different) 
+              
+                - Breaking the cipher 
+                   Frequency analysis 
+                   identify the cipher (s or t) 
+                   identify the size of the key 
+                   Anagram 
+
+                 - qualities of good cipher 
+                     - confusion 
+                     - diffusion 
+
+                 - Vigenere cipher 
+                 - Vernam cipher 
+
+                 - Product Cipher 
+                      - ADFGVX cipher
+
+                 - Modern cipher 
+                     - Stream Vs Block cipher 
+    - Cryptanalysis 
+    Assume :
+Cryptanalyst has access to black-box implementation of the block cipher with secret key K.
+          - Cipher text only attack
+              - Brute Force 
+              - Frequency Analysis 
+          - Known plaintext Attack 
+              Differential Cryptanalysis
+          - Chosen Cipher Text attack
+              Differential Cryptanalysis
+          - Chosen Plain text attack
+              Differential Cryptanalysis
+           
