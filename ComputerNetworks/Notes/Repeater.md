@@ -1,0 +1,1 @@
+**Definition**: A repeater is a network device that amplifies or regenerates signals to extend the distance over which data can travel in a network.

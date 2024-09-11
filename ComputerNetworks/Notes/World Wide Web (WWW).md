@@ -1,0 +1,1 @@
+**Definition**: The World Wide Web (WWW) is a system of interlinked hypertext documents and multimedia content that is accessed via the Internet using web browsers. It operates over the Internet and enables users to view and interact with web pages using protocols such as HTTP.

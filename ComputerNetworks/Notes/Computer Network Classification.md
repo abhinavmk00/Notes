@@ -1,0 +1,5 @@
+[[Personal area network (PAN)]]
+[[Local area network (LAN)]]
+[[Campus area network (CAN)]]
+[[Metropolitan area network (MAN)]]
+[[Wide area network (WAN)]]

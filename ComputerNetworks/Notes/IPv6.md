@@ -1,0 +1,1 @@
+**Definition**: IPv6 addresses are 128-bit numerical labels used to identify devices on an IPv6 network. They are represented in hexadecimal format as eight groups of four hexadecimal digits separated by colons (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).

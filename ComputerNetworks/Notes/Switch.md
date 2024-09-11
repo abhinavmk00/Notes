@@ -1,0 +1,1 @@
+**Definition**: A switch is a network device that connects devices within a single network segment and uses MAC addresses to forward data to the correct destination. It operates primarily at the data link layer (Layer 2) of the OSI model.

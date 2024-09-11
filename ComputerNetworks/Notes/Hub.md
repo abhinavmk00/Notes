@@ -1,0 +1,1 @@
+**Hub**: A hub is a network device that serves as a central connection point for multiple devices within a Local Area Network (LAN). It operates at the physical layer (Layer 1) of the OSI model and functions by receiving incoming data packets and broadcasting them to all connected devices.
