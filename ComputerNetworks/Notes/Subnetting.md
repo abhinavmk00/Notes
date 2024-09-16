@@ -1,0 +1,5 @@
+[[Subnets]]
+[[Subnet Mask]]
+[[Fixed Length Subnet Masks]]
+[[Variable Length Subnet Masks]]
+[[Factors to consider]]

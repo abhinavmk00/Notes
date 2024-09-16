@@ -4,3 +4,4 @@
 **Technology**: Often uses high-speed fiber optics or wireless connections and may include VLANs (Virtual LANs) for segmenting traffic.
 **Security**: Generally includes robust security measures like intrusion detection systems, secure access controls, and network segmentation.
 **Examples**: University networks connecting different departments or a corporate network linking multiple office buildings.
+

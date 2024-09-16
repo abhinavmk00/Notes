@@ -3,3 +3,5 @@
 * Bridge sit between two hub connected devices
 * Bridge have only two ports
 * It learns all the host on both sides
+
+

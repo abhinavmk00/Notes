@@ -16,3 +16,5 @@ Protocols are categorized into layers, allowing independence between layers. Thi
 ##### Types of Protocols
 [[Proprietary Protocols]]
 [[Standard Protocols]]
+
+#computer_networks

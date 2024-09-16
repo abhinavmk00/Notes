@@ -1,1 +1,3 @@
 **Definition**: The Internet is a global system of interconnected computer networks that use the Internet Protocol Suite (TCP/IP) to link devices worldwide. It provides a wide range of services, including data exchange, communication, and access to resources across different networks.
+
+#computer_networks

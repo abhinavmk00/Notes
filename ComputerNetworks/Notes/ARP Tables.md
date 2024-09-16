@@ -1,0 +1,1 @@
+An ARP table is a cache or database maintained by network devices (like routers, switches, and computers) that maps IP addresses to their corresponding MAC addresses. This mapping is essential for devices to communicate effectively on a local network using Ethernet or other Layer 2 protocols.

@@ -11,3 +11,6 @@ Network standards are guidelines set by recognized bodies that ensure interopera
 ##### Types of Standards
 [[De Facto]]
 [[De Jure]]
+
+
+#computer_networks

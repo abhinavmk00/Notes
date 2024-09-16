@@ -3,3 +3,5 @@
 [[Campus area network (CAN)]]
 [[Metropolitan area network (MAN)]]
 [[Wide area network (WAN)]]
+
+#computer_networks

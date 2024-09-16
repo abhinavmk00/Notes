@@ -1,0 +1,3 @@
+A **subnet** (short for subnetwork) is a smaller network within a larger network, created by dividing an IP network into multiple subnetworks. Subnets help improve network organization, efficiency, and security. In an IP network, each device has a unique IP address, and subnetting ensures that the available address space is used efficiently.
+
+When you subnet a network, you divide the original network into smaller groups of IP addresses, making it easier to manage, and sometimes improving security by isolating certain sections of the network.

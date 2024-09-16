@@ -1,6 +1,4 @@
 Computer networks
-	course files
-	PPTs
 	write notes
 
 Cryptology

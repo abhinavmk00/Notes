@@ -7,3 +7,6 @@
 - **Growth and Evolution**: ARPANET grew to connect various research institutions and universities across the United States. Its protocols and technologies laid the foundation for many modern networking concepts.
 
 - **Transition to the Internet**: In the 1980s, ARPANET transitioned to the TCP/IP protocol suite, which became the standard for networking. This transition marked the beginning of the modern Internet. ARPANET was officially decommissioned in 1990, but its legacy lives on in today’s global network.
+
+
+#computer_networks

@@ -1,0 +1,17 @@
+[[Substiution Cipher]]
+[[Ceaser Cipher]]
+[[Shift Cipher]]
+[[Multiplicative Cipher]]
+[[Affine Cipher]]
+[[Atbash Cipher]]
+[[Vatsyayana Cipher]]
+[[Transposition Cipher]]
+[[Columnar Transposition]]
+[[Double Columnar Transposition]]
+[[Rail Fence]]
+[[Vigenere Cipher]]
+[[Vernam Cipher]]
+[[Hill Cipher]]
+[[ADFGVX Cipher]]
+
+#Cryptology 

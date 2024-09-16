@@ -11,3 +11,5 @@ The **OSI Model (Open Systems Interconnection)** is a conceptual framework used 
 | 3                | [[Layer 3 (Network Layer)\|Network]]           | Packet                      | Structuring and managing a multi-node network, including addressing, routing, and traffic control.                                                |
 | 2                | [[Layer 2 (Data Link Layer)\|Data link]]       | Frame                       | Transmission of data frames between two nodes connected by a physical layer.                                                                      |
 | 1                | [[Layer 1 (Physical Layer)\|Physical]]         | Bit, Symbol                 | Transmission and reception of raw bit streams over a physical medium.                                                                             |
+
+#computer_networks 
